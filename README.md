@@ -1,5 +1,24 @@
 # News Application
 
+
+## Key Features and Learnings:
+### API Integration: 
+Leveraged the Dio package to handle API requests seamlessly.
+### Understanding APIs: 
+Explored what APIs are, their significance, and how they enable communication between different software systems.
+### Endpoints: 
+Learned about endpoints and their role in interacting with different functionalities of an API.
+### Trigger Endpoints: 
+Implemented trigger endpoints to efficiently manage specific actions and events within the application.
+### Asynchronous Programming: 
+Mastered async programming to ensure smooth and responsive user experiences.
+### JSON Data: 
+Delved into JSON data formats, learning how to parse, manipulate, and utilize JSON data effectively.
+### Flutter Packages: 
+Utilized a variety of useful and beautiful packages, including the webview_flutter package, to enhance the functionality and user experience of the app.
+
+---
+
 ## Getting Started
 
 To get a local copy up and running, follow these simple steps.
